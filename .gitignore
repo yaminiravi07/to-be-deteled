@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Minikube / Kubernetes temp files
+*.tmp
